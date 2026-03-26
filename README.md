@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bindu DM
+# 👋 Hi, I'm Bindu
 
 💼 Senior Software Test Engineer at LG Soft India  
 🔍 Experience in Manual & Automation Testing
