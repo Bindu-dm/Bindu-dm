@@ -36,7 +36,6 @@ Java | Selenium | TestNG | Cucumber | Maven | Jenkins | Git | GitHub | Docker
 * Real-time testing projects
 
 📫 How to reach me: bindudm123@gmail.com 
-
 💼 LinkedIn: https://www.linkedin.com/in/bindu-dm-a849411b7 
 
 😄 Pronouns: She/Her
