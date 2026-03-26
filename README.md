@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Bindu DM
 
-<!--
-**Bindu-dm/Bindu-dm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m a **Manual & Automation Test Engineer**
 
-Here are some ideas to get you started:
+💼 Currently working at **LG Soft India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning and working on
+* Java
+* Selenium WebDriver
+* TestNG
+* Cucumber BDD
+* Maven
+* Jenkins
+* Git & GitHub
+* Docker
+* Automation Frameworks
+
+🔧 Tools & Technologies:
+Java | Selenium | TestNG | Cucumber | Maven | Jenkins | Git | GitHub | Docker
+
+💞️ I’m looking to collaborate on
+* Automation testing projects
+* Selenium frameworks
+* Real-time testing projects
+
+📫 How to reach me: bindudm123@gmail.com 
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact : I love automating repetitive tasks and enjoy learning new technologies and improving my skills every day 🚀
