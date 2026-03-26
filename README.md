@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bindu DM
 
 💼 Senior Software Test Engineer at LG Soft India  
-🔍 5 years of experience in Manual & Automation Testing
+🔍 Experience in Manual & Automation Testing
 
 🌱 I’m currently working on
 * Java
