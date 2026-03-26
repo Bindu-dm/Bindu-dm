@@ -26,9 +26,7 @@ Java | Selenium | TestNG | Cucumber | Maven | Jenkins | Git | GitHub | Docker
 | Testing Framework | TestNG           | Manages test execution, assertions, and parallel test runs.             |
 | BDD Layer         | Cucumber         | Converts test cases into Gherkin language for better readability.       |
 | Design Pattern    | POM              | Page Object Model ensures maintainable, reusable, and DRY code.         |
-| CI/CD             | Jenkins / GitHub | Automates test execution on every code commit (continuous integration). |
-
-🌱 Project : https://github.com/Bindu-dm/OpencartV121Demo.git
+| CI/CD             | Jenkins / GitHub | Automates test execution on every code commit (continuous integration). 
 
 💞️ I’m looking to collaborate on
 * Automation testing projects
