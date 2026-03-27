@@ -21,7 +21,7 @@ Java | Selenium | TestNG | Cucumber | Maven | Jenkins | Git | GitHub | Docker
 | **Layer**         | **Tool**         | **Purpose**                                                             |
 | ----------------- | ---------------- | ----------------------------------------------------------------------- |
 | Dependency Mgmt   | Maven            | Handles JARs, dependencies, versions, and build lifecycle.              |
-| Language          | Java             | Core programming language for logic, OOP, and control structures.       |
+| Language          | Java             | Core programming language for logic, OOPs, and control structures.       |
 | Automation Engine | Selenium         | Interacts with the browser DOM to perform UI automation.                |
 | Testing Framework | TestNG           | Manages test execution, assertions, and parallel test runs.             |
 | BDD Layer         | Cucumber         | Converts test cases into Gherkin language for better readability.       |
